@@ -1,2 +1,2 @@
 # Python_Diamonds
-In-depth structural analysis of 'Diamonds' dataset using Python.
+Data Exploration : In-depth structural analysis of 'Diamonds' dataset using Python.
